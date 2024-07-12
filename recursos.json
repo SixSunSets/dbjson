@@ -80,9 +80,18 @@
     "username": "Universidad Nacional de Ingeniería",
     "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/449835711_824019476489229_8078301481652572354_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGNIGfSTyTBGn3xpD2Ia_c2wwUbGB7U-ubDBRsYHtT65uYfa47BG-vySdYK2R75fQIcigHihvsQkwAm9o2inHdL&_nc_ohc=qXfNtlpvnsgQ7kNvgHobKme&_nc_ht=scontent-lim1-1.xx&oh=00_AYCJQtHNpb6vklyeDDnZx-SrIlNsAgYfnueqLNpwZNOVlA&oe=66969F9B",
     "post": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/450507152_825871386304038_6504294055066451131_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeElf8PenqfrWLAYPY-RDsQlRugwYmFzOWBG6DBiYXM5YKjcPY94BZhHbnQpr4TgiooUILjjSEa3IJA1AsGmw7bj&_nc_ohc=Q6Y18nsF1YwQ7kNvgEdxoDW&_nc_ht=scontent-lim1-1.xx&oh=00_AYBfG5d6s6kCX99l6V8QBkgS7zLj9s9K4HUrL-vga3Tgsg&oe=6696B2C5",
-    "type":"unis"
-    "origen":"https://www.facebook.com/share/p/jWHbQByTTfQQv3LN/",
+    "type":"unis",
+    "origen":"https://www.facebook.com/share/p/jWHbQByTTfQQv3LN/"
   },
+    {
+    "id": 12,
+    "title": "Unis 2",
+    "username": "OCRI - UNI",
+    "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/450635086_867650015398545_3969968128454818165_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFh7DYRQuwbwe60g56vIhYueZJrqTK0Bt15kmupMrQG3ZRuHJFnu1bnzODwu8m2WxN4iJ0wQdNtRNmFq-YPnrtU&_nc_ohc=HZ6MHK_Eh5QQ7kNvgHTSCMA&_nc_ht=scontent-lim1-1.xx&oh=00_AYD57lAHZOW2V4zNO7CLs3ooC4bdSPDc0XIWrybcVEmnIg&oe=6696BA95",
+    "post": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/450480349_876315421205053_7904874237312790919_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG1jkJU59YT2PvMFAmIm0PKGKgJ-UHyot4YqAn5QfKi3l7bbbC996JHdrVfndvbF0CyQDftKPaXA1kjCrED_5i9&_nc_ohc=07thRzHgzP0Q7kNvgEwb_ve&_nc_ht=scontent-lim1-1.xx&oh=00_AYA5YdWyzQP1daiXQ1Gx51p_XGcCexT5AePbtt04fPXMGQ&oe=6696A438",
+    "type":"unis"
+  },
+  
 
   
 ]
