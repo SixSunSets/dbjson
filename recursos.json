@@ -47,5 +47,19 @@
     "username": "Creador 3",
     "avatar": "https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png",
     "type":"canal"
+  },
+  {
+    "id": 8,
+    "title": "Evento 1",
+    "username": "TUNI",
+    "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/450537456_819362253623356_8756930800062898885_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFhSuh3VnZEi5PXmg_FniS-oAzI67PafFigDMjrs9p8WPdZoZh3mCuPrJYjYqfWk3JY5l-Sme3lsaNWHSjv7p3J&_nc_ohc=G5tR1mygbSQQ7kNvgGQ-oiY&_nc_ht=scontent-lim1-1.xx&oh=00_AYADbIQM-jSmph1x6WCsZr-IMucgHwfHP7YO-YBOrmOKEQ&oe=6696B211",
+    "type":"evento"
+  },
+  {
+    "id": 9,
+    "title": "Evento 2",
+    "username": "CDAUNI",
+    "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/449849454_807230474907217_2135662780160993772_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFETsMzaYpqLIfVXfVQie_uZ-tuvu2tWv9n626-7a1a_yQmdr5ZKLXiW-BNU6FjsNW29b8OgTKTh-39ZXHl76SL&_nc_ohc=byPfS7nMZ0AQ7kNvgEEqMC_&_nc_ht=scontent-lim1-1.xx&oh=00_AYChpCytlP_5AVzb5sAX6tajxjhdGwDr-qhwIjdsInPTOA&oe=6696A365",
+    "type":"evento"
   }
 ]
