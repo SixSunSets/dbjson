@@ -4,23 +4,41 @@
     "title": "Onedrive 1",
     "username": "Autor 1",
     "avatar": "https://user-images.githubusercontent.com/29630035/64020891-0342f080-cb33-11e9-8a86-7a4baffcdf6d.png"
+    "type":"material"
   },
   {
     "id": 2,
     "title": "Onedrive 2",
     "username": "Autor 2",
     "avatar": "https://user-images.githubusercontent.com/29630035/64020891-0342f080-cb33-11e9-8a86-7a4baffcdf6d.png"
+    "type":"material"
   },
   {
     "id": 3,
     "title": "Onedrive 3",
     "username": "Autor 3",
     "avatar": "https://user-images.githubusercontent.com/29630035/64020891-0342f080-cb33-11e9-8a86-7a4baffcdf6d.png"
+    "type":"material"
   },
   {
     "id": 4,
-    "title": "Onedrive 4",
-    "username": "Autor 4",
-    "avatar": "https://user-images.githubusercontent.com/29630035/64020891-0342f080-cb33-11e9-8a86-7a4baffcdf6d.png"
+    "title": "Canal 1",
+    "username": "Creador 1",
+    "avatar": "https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"
+    "type":"material"
+  },
+  {
+    "id": 5,
+    "title": "Canal 2",
+    "username": "Creador 2",
+    "avatar": "https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"
+    "type":"material"
+  },
+    {
+    "id": 6,
+    "title": "Canal 3",
+    "username": "Creador 3",
+    "avatar": "https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png"
+    "type":"material"
   }
 ]
