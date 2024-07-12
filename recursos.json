@@ -63,5 +63,14 @@
     "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/267790965_1755086977993557_5555307482053416142_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeETwdfmy6qAv0OtzptX7yxQCoB1gAUne44KgHWABSd7jtk5woe_dhl0ymn9Oy1Gbh0eZhwDwenYn2z9qQ7WfAQB&_nc_ohc=mQ0L3nSiA2EQ7kNvgEIpWwR&_nc_ht=scontent-lim1-1.xx&oh=00_AYC01ArzqYyM_Z_l9yqTP9W1mvY2ZkRM8sU8gvvIFpLgrA&oe=6696BC77",
     "post": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/449849454_807230474907217_2135662780160993772_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFETsMzaYpqLIfVXfVQie_uZ-tuvu2tWv9n626-7a1a_yQmdr5ZKLXiW-BNU6FjsNW29b8OgTKTh-39ZXHl76SL&_nc_ohc=byPfS7nMZ0AQ7kNvgEEqMC_&_nc_ht=scontent-lim1-1.xx&oh=00_AYChpCytlP_5AVzb5sAX6tajxjhdGwDr-qhwIjdsInPTOA&oe=6696A365",
     "type":"evento"
+  },
+  {
+    "id": 9,
+    "title": "Beca 1",
+    "username": "Pronabec - Minedu",
+    "avatar": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/348245133_777067873796692_3214626941399366139_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG2SLylTgjavhfmyJTMfylH447Yp2aw9O3jjtinZrD07aGlVUjuLkbpIeHUjHW_yOYockQ8FPs2TbBH8YxtouYa&_nc_ohc=VhiSNg70qNIQ7kNvgGvRiPx&_nc_ht=scontent-lim1-1.xx&oh=00_AYC5hv12qNTikspvaOGBkK3n3ZjxMdmHuKVicO3JSYwjYA&oe=66969602",
+    "post": "https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/450468423_900641302103003_4106896400872754588_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGTgdjnWsxUAWp4MXVzAfMcM_baQ9biflkz9tpD1uJ-WT2qrmEiPq0nz8ptEMpDazKo84N_OxdSm1PiZZpT5jyN&_nc_ohc=nm4DkNSaHtcQ7kNvgH3Zi23&_nc_ht=scontent-lim1-1.xx&oh=00_AYD8vPX4wX5tt6t3XJczyl-OIAPBfR4QhehngG0THS_f9w&oe=66968FD6",
+    "type":"beca"
   }
+  
 ]
